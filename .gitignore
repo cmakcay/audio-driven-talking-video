@@ -1,0 +1,9 @@
+# IPython notebook files
+__pycache__/
+.vscode/
+.pyc
+
+
+wandb/
+venv/
+Documents/
